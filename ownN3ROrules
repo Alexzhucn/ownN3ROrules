@@ -2,8 +2,8 @@
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/ConnersHua/Surge/Ruleset/Unbreak.list
 surge_ruleset=🛑 自定义-广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 surge_ruleset=🛑 自定义-广告拦截,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/ConnersHua/Surge/Ruleset/Hijacking.list
-surge_ruleset=📹 分流-YouTube,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/ConnersHua/Surge/Ruleset/Media/YouTube.list
-surge_ruleset=📹 分流-YouTubeMusic,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/ConnersHua/Surge/Ruleset/Media/YouTubeMusic.list
+surge_ruleset=📺 分流-YouTube,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/ConnersHua/Surge/Ruleset/Media/YouTube.list
+surge_ruleset=📺 分流-YouTubeMusic,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/ConnersHua/Surge/Ruleset/Media/YouTubeMusic.list
 surge_ruleset=🎥 分流-NETFLIX,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/ConnersHua/Surge/Ruleset/Media/Netflix.list
 surge_ruleset=📺 分流-流媒体,https://raw.githubusercontent.com/ConnersHua/Profiles/master/Surge/Ruleset/GlobalMedia.list
 surge_ruleset=🌏 自定义-国内网站,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
