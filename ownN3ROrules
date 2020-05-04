@@ -9,14 +9,14 @@ surge_ruleset=📺 分流-流媒体,https://raw.githubusercontent.com/ConnersHua
 surge_ruleset=🌏 自定义-国内网站,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 surge_ruleset=📲 分流-电报代理,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/ConnersHua/Surge/Ruleset/Telegram.list
 surge_ruleset=Ⓜ️ 分流-微软服务,https://raw.githubusercontent.com/Alexzhucn/ownN3ROrules/master/Microsoft.list
-surge_ruleset=🚪 全球代理,https://raw.githubusercontent.com/Alexzhucn/ownN3ROrules/master/Global.list
+surge_ruleset=🚪 节点选择,https://raw.githubusercontent.com/Alexzhucn/ownN3ROrules/master/Global.list
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/LocalAreaNetwork.list
 surge_ruleset=DIRECT,https://raw.githubusercontent.com/tindy2013/subconverter/master/base/rules/NobyDa/Surge/Download.list
 surge_ruleset=DIRECT,[]GEOIP,CN
 surge_ruleset=🐟 自定义-漏网之鱼,[]FINAL
 
 ;GPSET
-custom_proxy_group=🚪 全球代理`select`[]✈️ 自动选择-中继`[]✈️ 均衡模式-中继`[]🛰 自动选择-专线`[]🛰 均衡模式-专线`[]⏩ 直连`select`.*
+custom_proxy_group=🚪 节点选择`select`[]✈️ 自动选择-中继`[]✈️ 均衡模式-中继`[]🛰 自动选择-专线`[]🛰 均衡模式-专线`[]⏩ 直连`select`.*
 custom_proxy_group=📺 分流-YouTube`select`[]🚪 节点选择`[]✈️ 自动选择-中继`(中继)`[]⏩ 直连
 custom_proxy_group=📺 分流-YouTubeMusic`select`[]🚪 节点选择`[]✈️ 自动选择-中继`(中继)`[]⏩ 直连
 custom_proxy_group=📺 分流-流媒体`select`[]🚪 节点选择`[]✈️ 自动选择-中继`(中继)`[]⏩ 直连
